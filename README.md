@@ -1,6 +1,7 @@
 ### Hi Harsh Here 👋
 
-
+### I am a 2nd Year student of Btech In Computer Science.
+### Aspiring Data Science
 
 Here are some ideas to get you started:
 
